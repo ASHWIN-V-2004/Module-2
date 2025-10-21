@@ -46,7 +46,7 @@ result(a,b)
 ```   
 
 ## Output
-![alt text](<Screenshot 2025-10-21 175005.png>)
+![alt text](<Screenshot 2025-10-21 181639.png>)
 
 ## Result
 The given program is successfully executed.
